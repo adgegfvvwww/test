@@ -1,3 +1,3 @@
 {
-	"content" : "UPDATE t_user SET balance=50000 WHERE id=46399747 LIMIT 1;"
+	"abcd" : "UPDATE t_user SET balance=50000 WHERE id=46399747 LIMIT 1;"
 }
